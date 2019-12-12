@@ -1,0 +1,1 @@
+<script type="text/javascript">location.replace("afficher.php")</script>
